@@ -19,7 +19,11 @@ from django.urls import include
 
 # from.views import hello
 # http://localhost:5000/blog/some-title
+
+from .views import redirect_blog
+
 urlpatterns = [
+    path('', redirect_blog),
     path('admin/', admin.site.urls),
     path("blog/", include('blog.urls'))
 ]
