@@ -50,3 +50,9 @@ p.text {
  text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff, 0 0 0px #f8fff7, 0 0;
     font-size: xx-large;
 }
+
+.card-body {
+    background-image: url("img2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
