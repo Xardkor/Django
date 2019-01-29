@@ -26,3 +26,17 @@ body {
     background-position: center;
     background-attachment: fixed;
 }
+h1.red {
+ color: #ffffff;
+ text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #ff0000, 0 0 80px #ff0000, 0 0 90px #ff0000, 0 0 100px #ff0000, 0 0 150px #ff0000;
+}
+
+h5.red {
+ color: #ffffff;
+ text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #ff0000, 0 0 80px #ff0000, 0 0 90px #ff0000, 0 0 100px #ff0000, 0 0 150px #ff0000;
+}
+
+h1.mt-5 {
+    color: #ffffff;
+ text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #00ff40, 0 0
+}
